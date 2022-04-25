@@ -1,0 +1,79 @@
+h1{
+    color:aquamarine;
+    background-color: black;
+}
+
+
+
+h1:hover{
+    color: rgb(160, 155, 155);
+    background-color: rgb(211, 211, 206);
+}
+
+
+
+.general{
+    width: 500px;
+    padding: 20px;
+   display: flex;
+}
+
+
+.caja1{
+   display: flex;
+}
+
+
+article{
+    display: inline;
+    float: left;
+    margin-right: 300px;
+    padding: 18px;
+    color: aquamarine;
+    background-color: black;
+    
+}
+
+
+.general2{
+    width: 500px;
+    padding: 20px;
+   display: flex;
+}
+
+
+.caja2{
+    display: flex;
+}
+
+
+.general3{
+    width: 500px;
+    padding: 20px;
+   display: flex;
+}
+
+
+.caja3{
+    display: flex;
+}
+
+
+article:hover{
+    color: rgb(160, 155, 155);
+    background-color: rgb(211, 211, 206);
+}
+
+
+
+footer{
+    color: aquamarine;
+    background-color: black;
+}
+
+
+footer:hover{
+    color: rgb(160, 155, 155);
+    background-color: rgb(211, 211, 206);
+}
+
